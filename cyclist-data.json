@@ -1,0 +1,57 @@
+[
+  {
+    "mbtu": ".093",
+    "place": 1,
+    "hhv": ".79",
+    "brand": "Lamppa Vapor-Fire 100"},
+  {
+    "mbtu": ".21",
+    "place": 2,
+    "hhv": ".69",
+    "brand": "Fire Chief - Shelter FC1000"},
+  {
+    "mbtu": "0.261",
+    "place": 3,
+    "hhv": ".646",
+    "Brand": "Fire Chief - Shelter FC1700"},
+  {
+    "mbtu": "0.368",
+    "place": 4,
+    "hhv": ".633",
+    "Brand": "Fire Chief - Shelter FC1500"},
+  {
+    "mbtu": "0.385",
+    "place": 5,
+    "hhv": ".63",
+    "Brand": "U.S. Stove 1400E"},
+  {
+   "mbtu": "0.461",
+    "place": 6,
+    "hhv": ".6985",
+    "Brand": "U.S. Stove AF700 Ashley - Private label"},
+  {
+   "mbtu": "0.509",
+    "place": 7,
+    "hhv": ".6001",
+    "Brand": "U.S. Stove 1330E Hot Blast"},  
+  {
+   "mbtu": "0.65",
+    "place": 8,
+    "hhv": ".751",
+    "Brand": "Caddy Tundra II - Private Label"},
+  {
+   "mbtu": "0.728",
+    "place": 9,
+    "hhv": ".7225",
+    "Brand": "England Stove Works"},
+  {
+   "mbtu": "0.75",
+    "place": 10,
+    "hhv": ".7642",
+    "Brand": "Max Caddy Heat Pro - Private label"},
+  {
+   "mbtu": "0.84",
+    "place": 11,
+    "hhv": ".7445",
+    "Brand": "Mini-Caddy Heat Pack- Private label"}
+]
