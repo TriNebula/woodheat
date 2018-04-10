@@ -1,0 +1,105 @@
+[
+  {
+    "mbtu": ".06",
+    "place": 1,
+    "hhv": ".89",
+    "brand": "Maine Energy Systems LLC",
+    "model": "Autopellet Air"},
+  {
+    "mbtu": ".09",
+    "place": 2,
+    "hhv": ".79",
+    "brand": "Lamppa Manufacturing Inc.",
+    "model": "Lamppa Vapor-Fire 100"},
+  {
+    "mbtu": ".19",
+    "place": 3,
+    "hhv": ".69",
+    "brand": "Fire Chief Industries/Shelter Furnace/HY-C Company",
+    "model": "FC1000, SF1000"
+  },
+  {
+    "mbtu": "0.2",
+    "place": 4,
+    "hhv": ".65",
+    "brand": "AC Component Specialists",
+    "model": "620-9, 620-10"
+  },
+  {
+    "mbtu": "0.26",
+    "place": 5,
+    "hhv": ".63",
+    "brand": "Fire Chief Industries/Shelter Furnace/HY-C Company",
+    "model": "FC1700, FC1900, SF3100, SF4200"
+  },
+  {
+    "mbtu": "0.37",
+    "place": 6,
+    "hhv": ".63",
+    "brand": "Fire Chief Industries/Shelter Furnace/HY-C Company",
+    "model": "FC1500, SF2600"
+  },
+  {
+   "mbtu": "0.39",
+    "place": 7,
+    "hhv": ".63",
+    "brand": "United States Stove Company",
+    "model": "1400E, 1440E, AF1440E, CF1440E, BK1440E,NM1440E, GE1440E, CH1440E, VG1440E, HC1440E, HB1440E"
+  },
+  {
+   "mbtu": "0.41",
+    "place": 8,
+    "hhv": ".71",
+    "brand": "United States Stove Company",
+    "model": "AF700, CF700M"
+  },  
+  {
+   "mbtu": "0.44",
+    "place": 9,
+    "hhv": ".69",
+    "brand": "Stove Builder International Inc.",
+    "model": "Caddy Alterna II"
+  },
+  {
+   "mbtu": "0.51",
+    "place": 10,
+    "hhv": ".33",
+    "brand": "United States Stove Company",
+    "model": "1330E, AF1330E, CF1330E, BK1330E, NM1330E,GE1330E, CH1330E, VG1330E, HC1330E, HB1330E"
+  },
+  {
+   "mbtu": "0.53",
+    "place": 11,
+    "hhv": ".48",
+    "brand": "United States Stove Company",
+    "model": "8500, SP8500"
+  },
+  {
+   "mbtu": "0.65",
+    "place": 12,
+    "hhv": ".77",
+    "brand": "Stove Builder International Inc.",
+    "model": "Caddy, Heatmax II, Tundra II"
+  },
+  {
+   "mbtu": "0.73",
+    "place": 13,
+    "hhv": ".72",
+    "brand": "England's Stove Works, Inc.",
+    "model": "28-4000, 50-SHW40, 50-TRW40"
+  },  
+  {
+   "mbtu": "0.75",
+    "place": 14,
+    "hhv": ".77",
+    "brand": "Stove Builder International Inc.",
+    "model": "Max Caddy, HeatPro"
+  },
+  {
+   "mbtu": "0.84",
+    "place": 15,
+    "hhv": ".74",
+    "brand": "Stove Builder International Inc.",
+    "model": "Mini-Caddy, Heatpack"
+  }
+]
